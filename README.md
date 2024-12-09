@@ -35,5 +35,3 @@ If it can be collected, analyzed, or managed, Collection # has you covered! 🗂
 - Perform complex calculations using Reverse Polish Notation for simplicity and efficiency.  
 - Supports addition, subtraction, multiplication, division, and advanced operations (e.g., trigonometry, logarithms).  
 - Evaluate mathematical expressions without the need for parentheses or operator precedence.  
-
-Example RPN Expression:  
