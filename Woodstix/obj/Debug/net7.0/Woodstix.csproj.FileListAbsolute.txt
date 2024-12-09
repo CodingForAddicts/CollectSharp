@@ -1,0 +1,14 @@
+/Users/antoinerichard-capponi/Epita/B2/Woodstix/Woodstix/bin/Debug/net7.0/Woodstix
+/Users/antoinerichard-capponi/Epita/B2/Woodstix/Woodstix/bin/Debug/net7.0/Woodstix.deps.json
+/Users/antoinerichard-capponi/Epita/B2/Woodstix/Woodstix/bin/Debug/net7.0/Woodstix.runtimeconfig.json
+/Users/antoinerichard-capponi/Epita/B2/Woodstix/Woodstix/bin/Debug/net7.0/Woodstix.dll
+/Users/antoinerichard-capponi/Epita/B2/Woodstix/Woodstix/bin/Debug/net7.0/Woodstix.pdb
+/Users/antoinerichard-capponi/Epita/B2/Woodstix/Woodstix/obj/Debug/net7.0/Woodstix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoinerichard-capponi/Epita/B2/Woodstix/Woodstix/obj/Debug/net7.0/Woodstix.AssemblyInfoInputs.cache
+/Users/antoinerichard-capponi/Epita/B2/Woodstix/Woodstix/obj/Debug/net7.0/Woodstix.AssemblyInfo.cs
+/Users/antoinerichard-capponi/Epita/B2/Woodstix/Woodstix/obj/Debug/net7.0/Woodstix.csproj.CoreCompileInputs.cache
+/Users/antoinerichard-capponi/Epita/B2/Woodstix/Woodstix/obj/Debug/net7.0/Woodstix.dll
+/Users/antoinerichard-capponi/Epita/B2/Woodstix/Woodstix/obj/Debug/net7.0/refint/Woodstix.dll
+/Users/antoinerichard-capponi/Epita/B2/Woodstix/Woodstix/obj/Debug/net7.0/Woodstix.pdb
+/Users/antoinerichard-capponi/Epita/B2/Woodstix/Woodstix/obj/Debug/net7.0/Woodstix.genruntimeconfig.cache
+/Users/antoinerichard-capponi/Epita/B2/Woodstix/Woodstix/obj/Debug/net7.0/ref/Woodstix.dll
